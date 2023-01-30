@@ -1,0 +1,32 @@
+# OSX
+.DS_Store
+
+# Vim swap files
+[._]*.s[a-w][a-z]
+[._]s[a-w][a-z]
+
+# RubyMine project files
+.idea/
+
+# Coverage reports
+coverage/
+
+# Salus output
+salus_report.json
+salus-report.json
+
+# node
+node_modules
+yarn-error.log
+
+# Gradle build artifacts
+.gradle/
+
+# vscode
+.vscode
+
+# Intelli IDEA files
+*.iml
+
+# Yarn 
+.yarn/*
